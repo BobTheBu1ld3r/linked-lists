@@ -1,0 +1,19 @@
+{
+  "name": "linked-lists",
+  "version": "1.0.0",
+  "description": "A project for The Odin Project to implement Linked Lists in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BobTheBu1ld3r/linked-lists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BobTheBu1ld3r/linked-lists/issues"
+  },
+  "homepage": "https://github.com/BobTheBu1ld3r/linked-lists#readme"
+}
